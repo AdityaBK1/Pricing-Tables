@@ -13,8 +13,7 @@ class Home extends React.Component {
           <div class="container py-5">
             
             <header class="text-center mb-5 text-white">
-              <div class="row">
-                
+              <div class="row">  
               </div>
             </header>
            
